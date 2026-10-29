@@ -1,0 +1,4 @@
+build/
+shaders/*.spv
+.cache/
+.vscode/
